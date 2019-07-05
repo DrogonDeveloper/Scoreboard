@@ -1,0 +1,5 @@
+<meta>
+	<info author="Drogon" name="Scoreboard" version="0.1" type="script" />
+	<script type="client" src="newscoreboard.lua" />
+	<script type="server" src="newscoreboardserverside.lua" />
+</meta>
