@@ -87,7 +87,7 @@ addEventHandler("onClientKey", root,
 	end
 );
 
-function toggleScoreboard() -- A scoreboard előhozásának függvénye
+function toggleScoreboard() 
 	currPlayers = getElementsByType("player");
 	if (not scoreboardVisible) then 
 		if (#currPlayers > 14) then 
